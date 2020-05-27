@@ -1,6 +1,7 @@
 html{
     font-family: 'Times New Roman', Times, serif;
     background-color: black;
+    font-weight: 300;
 }
 
 body {
@@ -24,6 +25,21 @@ p {
     text-decoration: underline;
     margin: 1.3125rem 0;
     font-size: 1rem;
-    font-weight: 300;
     line-height: 1.6;
+}
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#Gray {
+    color: gray;
+    font-size: 1.3125rem;
+    text-decoration: none;
+    line-height: normal;
+}
+
+.right {
+    text-align: right;
 }
