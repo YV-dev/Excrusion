@@ -22,6 +22,8 @@ h1 {
 p {
     color: aquamarine;
     text-decoration: underline;
-    margin: 21px 0;
+    margin: 1.3125rem 0;
     font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.6;
 }
